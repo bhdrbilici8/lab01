@@ -6,3 +6,4 @@ pyodbc
 gunicorn
 email-validator
 psycopg2-binary
+flask-migrate
